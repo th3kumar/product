@@ -72,7 +72,6 @@ public class MainActivity extends AppCompatActivity {
             textViewResult.setText(resultText);
         } catch (NumberFormatException e) {
             // Handle the case where non-integer input is provided
-            editTextAge.setError("Invalid input");
             editTextNum1.setError("Invalid input");
             editTextNum2.setError("Invalid input");
         }
