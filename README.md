@@ -28,7 +28,7 @@ This Android app allows users to:
 1. Launch the app.
 2. Enter your Name and Age.
 3. Input two Numbers.
-4. Click "Calculate."
+4. Click "Product."
 5. See the result with Name and Age.
 
 ## Contributions
