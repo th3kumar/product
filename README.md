@@ -1,5 +1,7 @@
 # Simple Android Calculator App
 
+![floating_screen_phone_mockup](https://github.com/th3kumar/product/assets/72141924/109d22f2-dc7a-4c8e-b895-2a9309521de4)
+
 ## Overview
 
 This Android app allows users to:
